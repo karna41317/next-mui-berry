@@ -18,6 +18,13 @@ const nextConfig = withTM({
     loader: 'akamai',
     path: ''
   },
+  
+  output: "export",
+  basePath: "/nextjs-github-pages",
+
+  images: {
+    unoptimized: true,
+  },
   typescript: {
     // !! WARN !!
     // Dangerously allow production builds to successfully complete even if
@@ -28,3 +35,4 @@ const nextConfig = withTM({
 });
 
 module.exports = nextConfig;
+ 
