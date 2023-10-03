@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export && touch ./out/.nojekyll && echo 'https://karna41317.github.io/berry-next/' > ./out/CNAME",
+    "export": "next export && touch ./out/.nojekyll && echo 'https://karna41317.github.io/berry-next/' > ./out/CNAME"
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.20.1",
