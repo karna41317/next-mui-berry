@@ -45,7 +45,7 @@ import ThumbUpAltTwoToneIcon from '@mui/icons-material/ThumbUpAltTwoTone';
 import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 import useConfig from 'hooks/useConfig';
 
-const avatarImage = '/berry-dashboard/assets/images/profile/';
+const avatarImage = '/assets/images/profile/';
 
 const validationSchema = yup.object().shape({
   name: yup.string().required('Comment Field is Required')

@@ -8,7 +8,7 @@ import AnimateButton from 'ui-component/extended/AnimateButton';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const Avatar1 = '/berry-dashboard/assets/images/users/avatar-1.png';
+const Avatar1 = '/assets/images/users/avatar-1.png';
 
 // ==============================|| PROFILE 3 - PROFILE ||============================== //
 

@@ -17,10 +17,10 @@ const LayoutImage = styled('img')({
   height: '100%',
   animation: '5s wings ease-in-out infinite'
 });
-const imgLayout1 = '/berry-dashboard/assets/images/landing/demo-dark.png';
-const imgLayout2 = '/berry-dashboard/assets/images/landing/demo-rtl.png';
-const imgLayout3 = '/berry-dashboard/assets/images/landing/demo-multi.png';
-const imgLayoutGrid = '/berry-dashboard/assets/images/landing/img-lay-grid.png';
+const imgLayout1 = '/assets/images/landing/demo-dark.png';
+const imgLayout2 = '/assets/images/landing/demo-rtl.png';
+const imgLayout3 = '/assets/images/landing/demo-multi.png';
+const imgLayoutGrid = '/assets/images/landing/img-lay-grid.png';
 // =============================|| SLIDER ITEMS ||============================= //
 
 const Item = ({ item }: { item: { bg: string; image: string; title: string; content: string } }) => (

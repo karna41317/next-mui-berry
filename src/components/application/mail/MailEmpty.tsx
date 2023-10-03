@@ -4,8 +4,8 @@ import { CardMedia, Stack, Typography } from '@mui/material';
 
 // project imports
 import { gridSpacing } from 'store/constant';
-const imageEmpty = '/berry-dashboard/assets/images/maintenance/empty.svg';
-const imageDarkEmpty = '/berry-dashboard/assets/images/maintenance/empty-dark.svg';
+const imageEmpty = '/assets/images/maintenance/empty.svg';
+const imageDarkEmpty = '/assets/images/maintenance/empty-dark.svg';
 
 // ==============================|| NO/EMPTY MAIL ||============================== //
 

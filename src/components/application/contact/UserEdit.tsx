@@ -24,7 +24,7 @@ import PerfectScrollbar from 'react-perfect-scrollbar';
 // project imports
 import SubCard from 'ui-component/cards/SubCard';
 import { gridSpacing } from 'store/constant';
-const User1 = '/berry-dashboard/assets/images/users/avatar-1.png';
+const User1 = '/assets/images/users/avatar-1.png';
 import { UserProfile } from 'types/user-profile';
 
 // assets
@@ -37,7 +37,7 @@ import UploadTwoToneIcon from '@mui/icons-material/UploadTwoTone';
 import ControlPointIcon from '@mui/icons-material/ControlPoint';
 import TodayTwoToneIcon from '@mui/icons-material/TodayTwoTone';
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 const jobTypes = [
   { label: 'Work', id: 1 },

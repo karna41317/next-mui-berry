@@ -37,7 +37,7 @@ import useAuth from 'hooks/useAuth';
 import { IconLogout, IconSearch, IconSettings, IconUser } from '@tabler/icons';
 import useConfig from 'hooks/useConfig';
 
-const User1 = '/berry-dashboard/assets/images/users/user-round.svg';
+const User1 = '/assets/images/users/user-round.svg';
 
 // ==============================|| PROFILE MENU ||============================== //
 

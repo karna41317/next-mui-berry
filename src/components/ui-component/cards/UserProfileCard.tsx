@@ -15,7 +15,7 @@ import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 // types
 import { UserProfileCardProps } from 'types/user';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // styles
 const FacebookWrapper = styled(Button)({

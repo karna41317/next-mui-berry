@@ -18,7 +18,7 @@ import {
 // assets
 import AddIcon from '@mui/icons-material/Add';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // alert user data
 const emails = [

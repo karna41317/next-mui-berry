@@ -2,9 +2,9 @@
 import { PaymentOptionsProps } from 'types/e-commerce';
 
 // assets
-const paypal = '/berry-dashboard/assets/images/e-commerce/paypal.png';
-const card = '/berry-dashboard/assets/images/e-commerce/card.png';
-const cod = '/berry-dashboard/assets/images/e-commerce/cod.png';
+const paypal = '/assets/images/e-commerce/paypal.png';
+const card = '/assets/images/e-commerce/card.png';
+const cod = '/assets/images/e-commerce/cod.png';
 
 // ==============================|| CHECKOUT - PAYMENT OPTIONS ||============================== //
 

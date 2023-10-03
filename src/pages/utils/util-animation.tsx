@@ -13,7 +13,7 @@ import Transitions from 'ui-component/extended/Transitions';
 import { Direction } from 'types';
 
 // assets
-const image = '/berry-dashboard/assets/images/profile/img-profile-bg.png';
+const image = '/assets/images/profile/img-profile-bg.png';
 
 // ==============================|| UTILITIES - ANIMATION ||============================== //
 

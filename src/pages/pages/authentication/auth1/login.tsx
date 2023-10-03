@@ -13,8 +13,8 @@ import AuthSlider from 'ui-component/cards/AuthSlider';
 import { AuthSliderProps } from 'types';
 
 // assets
-const AuthBlueCard = '/berry-dashboard/assets/images/auth/auth-blue-card.svg';
-const AuthPurpleCard = '/berry-dashboard/assets/images/auth/auth-purple-card.svg';
+const AuthBlueCard = '/assets/images/auth/auth-blue-card.svg';
+const AuthPurpleCard = '/assets/images/auth/auth-purple-card.svg';
 
 // styles
 const PurpleWrapper = styled('span')({

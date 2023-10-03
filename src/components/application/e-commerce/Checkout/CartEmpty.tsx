@@ -6,8 +6,8 @@ import { CardMedia, Grid, Typography, useMediaQuery } from '@mui/material';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const imageEmpty = '/berry-dashboard/assets/images/e-commerce/empty.svg';
-const imageDarkEmpty = '/berry-dashboard/assets/images/e-commerce/empty-dark.svg';
+const imageEmpty = '/assets/images/e-commerce/empty.svg';
+const imageDarkEmpty = '/assets/images/e-commerce/empty-dark.svg';
 
 // ==============================|| CHECKOUT CART - NO/EMPTY CART ITEMS ||============================== //
 

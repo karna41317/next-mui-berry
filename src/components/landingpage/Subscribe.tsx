@@ -7,7 +7,7 @@ import MailerSubscriber from '../maintenance/ComingSoon/ComingSoon1/MailerSubscr
 import { gridSpacing } from 'store/constant';
 
 // assets
-const imgMail = '/berry-dashboard/assets/images/landing/img-groupmail.png';
+const imgMail = '/assets/images/landing/img-groupmail.png';
 
 // styles
 const SubscribeWrapper = styled('div')(({ theme }) => {

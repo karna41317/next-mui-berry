@@ -10,11 +10,11 @@ import AnimateButton from 'ui-component/extended/AnimateButton';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const imageGrid = '/berry-dashboard/assets/images/maintenance/img-soon-grid.svg';
-const imageDarkGrid = '/berry-dashboard/assets/images/maintenance/img-soon-grid-dark.svg';
-const imageBlock = '/berry-dashboard/assets/images/maintenance/img-soon-block.svg';
-const imageBlueBlock = '/berry-dashboard/assets/images/maintenance/img-soon-blue-block.svg';
-const imagePurpleBlock = '/berry-dashboard/assets/images/maintenance/img-soon-purple-block.svg';
+const imageGrid = '/assets/images/maintenance/img-soon-grid.svg';
+const imageDarkGrid = '/assets/images/maintenance/img-soon-grid-dark.svg';
+const imageBlock = '/assets/images/maintenance/img-soon-block.svg';
+const imageBlueBlock = '/assets/images/maintenance/img-soon-blue-block.svg';
+const imagePurpleBlock = '/assets/images/maintenance/img-soon-purple-block.svg';
 
 import NotificationsActiveTwoToneIcon from '@mui/icons-material/NotificationsActiveTwoTone';
 

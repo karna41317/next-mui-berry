@@ -21,22 +21,22 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import BookIcon from '@mui/icons-material/Book';
 
-const logo = '/berry-dashboard/assets/images/logo.svg';
-const logoDark = '/berry-dashboard/assets/images/logo-dark.svg';
-const companyLogo = '/berry-dashboard/assets/images/maintenance/img-ct-logo.png';
-const imageBackground = '/berry-dashboard/assets/images/maintenance/img-soon-bg.svg';
-const imageGrid = '/berry-dashboard/assets/images/maintenance/img-soon-bg-grid.svg';
-const imageDarkGrid = '/berry-dashboard/assets/images/maintenance/img-soon-bg-grid-dark.svg';
-const imageSoon2 = '/berry-dashboard/assets/images/maintenance/img-soon-2.svg';
-const imageSoon3 = '/berry-dashboard/assets/images/maintenance/img-soon-3.svg';
-const imageSoon4 = '/berry-dashboard/assets/images/maintenance/img-soon-4.svg';
-const imageSoon5 = '/berry-dashboard/assets/images/maintenance/img-soon-5.svg';
-const imageSoon6 = '/berry-dashboard/assets/images/maintenance/img-soon-6.svg';
-const imageSoon7 = '/berry-dashboard/assets/images/maintenance/img-soon-7.svg';
-const imageSoon8 = '/berry-dashboard/assets/images/maintenance/img-soon-8.svg';
-const imageSlider1 = '/berry-dashboard/assets/images/maintenance/img-slider-layout1.png';
-const imageSlider2 = '/berry-dashboard/assets/images/maintenance/img-slider-layout2.png';
-const imageSlider3 = '/berry-dashboard/assets/images/maintenance/img-slider-layout3.png';
+const logo = '/assets/images/logo.svg';
+const logoDark = '/assets/images/logo-dark.svg';
+const companyLogo = '/assets/images/maintenance/img-ct-logo.png';
+const imageBackground = '/assets/images/maintenance/img-soon-bg.svg';
+const imageGrid = '/assets/images/maintenance/img-soon-bg-grid.svg';
+const imageDarkGrid = '/assets/images/maintenance/img-soon-bg-grid-dark.svg';
+const imageSoon2 = '/assets/images/maintenance/img-soon-2.svg';
+const imageSoon3 = '/assets/images/maintenance/img-soon-3.svg';
+const imageSoon4 = '/assets/images/maintenance/img-soon-4.svg';
+const imageSoon5 = '/assets/images/maintenance/img-soon-5.svg';
+const imageSoon6 = '/assets/images/maintenance/img-soon-6.svg';
+const imageSoon7 = '/assets/images/maintenance/img-soon-7.svg';
+const imageSoon8 = '/assets/images/maintenance/img-soon-8.svg';
+const imageSlider1 = '/assets/images/maintenance/img-slider-layout1.png';
+const imageSlider2 = '/assets/images/maintenance/img-slider-layout2.png';
+const imageSlider3 = '/assets/images/maintenance/img-slider-layout3.png';
 
 // styles
 const CardMediaWrapper = styled('div')(({ theme }) => ({

@@ -7,7 +7,7 @@ import { ButtonBase, Grid, Typography } from '@mui/material';
 import SubCard from 'ui-component/cards/SubCard';
 
 // assets
-const banner = '/berry-dashboard/assets/images/profile/profile-back-10.png';
+const banner = '/assets/images/profile/profile-back-10.png';
 
 // styled constant
 const Img = styled(Image)({

@@ -5,9 +5,9 @@ import { CardMedia, Grid } from '@mui/material';
 import Slider from 'react-slick';
 
 // assets
-const imageSlider1 = '/berry-dashboard/assets/images/maintenance/img-slider-layout1.png';
-const imageSlider2 = '/berry-dashboard/assets/images/maintenance/img-slider-layout2.png';
-const imageSlider3 = '/berry-dashboard/assets/images/maintenance/img-slider-layout3.png';
+const imageSlider1 = '/assets/images/maintenance/img-slider-layout1.png';
+const imageSlider2 = '/assets/images/maintenance/img-slider-layout2.png';
+const imageSlider3 = '/assets/images/maintenance/img-slider-layout3.png';
 
 // ================================|| SLIDER - ITEMS ||================================ //
 

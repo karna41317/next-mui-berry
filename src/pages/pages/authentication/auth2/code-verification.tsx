@@ -18,7 +18,7 @@ import { AuthSliderProps } from 'types';
 
 import AuthCodeVerification from 'components/authentication/auth-forms/AuthCodeVerification';
 // assets
-const imgMain = '/berry-dashboard/assets/images/auth/img-a2-codevarify.svg';
+const imgMain = '/assets/images/auth/img-a2-codevarify.svg';
 
 // carousel items
 const items: AuthSliderProps[] = [

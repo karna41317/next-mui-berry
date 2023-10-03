@@ -27,7 +27,7 @@ import AnimateButton from 'ui-component/extended/AnimateButton';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const mailImg = '/berry-dashboard/assets/images/landing/img-contact-mail.svg';
+const mailImg = '/assets/images/landing/img-contact-mail.svg';
 
 // select options
 const currencies = [

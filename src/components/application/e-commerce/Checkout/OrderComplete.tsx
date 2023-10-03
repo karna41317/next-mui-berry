@@ -15,7 +15,7 @@ import { Chance } from 'chance';
 
 // assets
 import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
-const completed = '/berry-dashboard/assets/images/e-commerce/completed.png';
+const completed = '/assets/images/e-commerce/completed.png';
 
 const chance = new Chance();
 

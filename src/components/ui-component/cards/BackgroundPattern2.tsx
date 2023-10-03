@@ -5,8 +5,8 @@ import { useTheme } from '@mui/material/styles';
 import { Box } from '@mui/material';
 
 // assets
-const AuthPattern = '/berry-dashboard/assets/images/auth/img-a2-grid.svg';
-const AuthPatternDark = '/berry-dashboard/assets/images/auth/img-a2-grid-dark.svg';
+const AuthPattern = '/assets/images/auth/img-a2-grid.svg';
+const AuthPatternDark = '/assets/images/auth/img-a2-grid-dark.svg';
 
 // ===========================|| BACKGROUND GRID PATTERN 2 ||=========================== //
 

@@ -22,10 +22,10 @@ import { gridSpacing } from 'store/constant';
 import EditOutlinedIcon from '@mui/icons-material/EditOutlined';
 import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined';
 
-const Phone1 = '/berry-dashboard/assets/images/widget/PHONE1.jpg';
-const Phone2 = '/berry-dashboard/assets/images/widget/PHONE2.jpg';
-const Phone3 = '/berry-dashboard/assets/images/widget/PHONE3.jpg';
-const Phone4 = '/berry-dashboard/assets/images/widget/PHONE4.jpg';
+const Phone1 = '/assets/images/widget/PHONE1.jpg';
+const Phone2 = '/assets/images/widget/PHONE2.jpg';
+const Phone3 = '/assets/images/widget/PHONE3.jpg';
+const Phone4 = '/assets/images/widget/PHONE4.jpg';
 import MainCard from 'ui-component/cards/MainCard';
 
 // table data

@@ -14,7 +14,7 @@ import BackgroundPattern1 from 'ui-component/cards/BackgroundPattern1';
 import AuthSlider from 'ui-component/cards/AuthSlider';
 import { AuthSliderProps } from 'types';
 // assets
-const AuthMultiCard = '/berry-dashboard/assets/images/auth/auth-forgot-pass-multi-card.svg';
+const AuthMultiCard = '/assets/images/auth/auth-forgot-pass-multi-card.svg';
 
 // styles
 const PurpleWrapper = styled('span')(({ theme }) => ({

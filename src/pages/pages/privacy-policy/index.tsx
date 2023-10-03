@@ -9,7 +9,7 @@ import MainCard from 'ui-component/cards/MainCard';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const headerBackground = '/berry-dashboard/assets/images/landing/header-bg.jpg';
+const headerBackground = '/assets/images/landing/header-bg.jpg';
 
 const HeaderWrapper = styled('div')(({ theme }) => ({
   backgroundImage: `url(${headerBackground})`,

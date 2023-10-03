@@ -33,7 +33,7 @@ import PhonelinkRingTwoToneIcon from '@mui/icons-material/PhonelinkRingTwoTone';
 import PinDropTwoToneIcon from '@mui/icons-material/PinDropTwoTone';
 import MailTwoToneIcon from '@mui/icons-material/MailTwoTone';
 
-const Avatar3 = '/berry-dashboard/assets/images/users/avatar-3.png';
+const Avatar3 = '/assets/images/users/avatar-3.png';
 
 // progress
 function LinearProgressWithLabel({ value, ...other }: LinearProgressProps) {

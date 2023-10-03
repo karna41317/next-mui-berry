@@ -11,10 +11,10 @@ import { gridSpacing } from 'store/constant';
 // assets
 import HomeTwoToneIcon from '@mui/icons-material/HomeTwoTone';
 
-const image = '/berry-dashboard/assets/images/maintenance/img-build.svg';
-const imageBackground = '/berry-dashboard/assets/images/maintenance/img-bg-grid.svg';
-const imageDarkBackground = '/berry-dashboard/assets/images/maintenance/img-bg-grid-dark.svg';
-const imageParts = '/berry-dashboard/assets/images/maintenance/img-bg-parts.svg';
+const image = '/assets/images/maintenance/img-build.svg';
+const imageBackground = '/assets/images/maintenance/img-bg-grid.svg';
+const imageDarkBackground = '/assets/images/maintenance/img-bg-grid-dark.svg';
+const imageParts = '/assets/images/maintenance/img-bg-parts.svg';
 
 // styles
 const CardMediaWrapper = styled('div')({

@@ -8,11 +8,11 @@ import Slider from './Slider';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const imgLayout1 = '/berry-dashboard/assets/images/landing/demo-dark.png';
-const imgLayout2 = '/berry-dashboard/assets/images/landing/demo-rtl.png';
-const imgLayout3 = '/berry-dashboard/assets/images/landing/demo-multi.png';
-const imgLayoutGrid = '/berry-dashboard/assets/images/landing/img-lay-grid.png';
-const imgLayoutDarkGrid = '/berry-dashboard/assets/images/landing/img-bg-grid-dark.svg';
+const imgLayout1 = '/assets/images/landing/demo-dark.png';
+const imgLayout2 = '/assets/images/landing/demo-rtl.png';
+const imgLayout3 = '/assets/images/landing/demo-multi.png';
+const imgLayoutGrid = '/assets/images/landing/img-lay-grid.png';
+const imgLayoutDarkGrid = '/assets/images/landing/img-bg-grid-dark.svg';
 
 // styles
 const LayoutImageWrapper = styled(Box)(({ theme }) => ({

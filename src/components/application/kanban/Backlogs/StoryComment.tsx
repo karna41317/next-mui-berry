@@ -16,7 +16,7 @@ interface Props {
   profile: KanbanProfile;
 }
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 // ==============================|| KANBAN BACKLOGS - STORY COMMENT ||============================== //
 

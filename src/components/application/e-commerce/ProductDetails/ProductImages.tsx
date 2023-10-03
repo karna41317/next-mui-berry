@@ -15,17 +15,17 @@ import Slider from 'react-slick';
 import Carousel, { Modal, ModalGateway } from 'react-images';
 
 // assets
-const prod1 = '/berry-dashboard/assets/images/e-commerce/prod-1.jpg';
-const prod2 = '/berry-dashboard/assets/images/e-commerce/prod-2.jpg';
-const prod3 = '/berry-dashboard/assets/images/e-commerce/prod-3.jpg';
-const prod4 = '/berry-dashboard/assets/images/e-commerce/prod-4.jpg';
-const prod5 = '/berry-dashboard/assets/images/e-commerce/prod-5.jpg';
-const prod6 = '/berry-dashboard/assets/images/e-commerce/prod-6.jpg';
-const prod7 = '/berry-dashboard/assets/images/e-commerce/prod-7.jpg';
-const prod8 = '/berry-dashboard/assets/images/e-commerce/prod-8.jpg';
+const prod1 = '/assets/images/e-commerce/prod-1.jpg';
+const prod2 = '/assets/images/e-commerce/prod-2.jpg';
+const prod3 = '/assets/images/e-commerce/prod-3.jpg';
+const prod4 = '/assets/images/e-commerce/prod-4.jpg';
+const prod5 = '/assets/images/e-commerce/prod-5.jpg';
+const prod6 = '/assets/images/e-commerce/prod-6.jpg';
+const prod7 = '/assets/images/e-commerce/prod-7.jpg';
+const prod8 = '/assets/images/e-commerce/prod-8.jpg';
 import useConfig from '../../../../hooks/useConfig';
 
-const prodImage = '/berry-dashboard/assets/images/e-commerce';
+const prodImage = '/assets/images/e-commerce';
 
 // ==============================|| PRODUCT DETAILS - IMAGES ||============================== //
 

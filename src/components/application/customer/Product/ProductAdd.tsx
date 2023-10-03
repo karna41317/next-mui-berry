@@ -33,10 +33,10 @@ import AnimateButton from 'ui-component/extended/AnimateButton';
 import CloudUploadIcon from '@mui/icons-material/CloudUpload';
 import CloseIcon from '@mui/icons-material/Close';
 
-const Product1 = '/berry-dashboard/assets/images/widget/prod1.jpg';
-const Product2 = '/berry-dashboard/assets/images/widget/prod2.jpg';
-const Product3 = '/berry-dashboard/assets/images/widget/prod3.jpg';
-const Product4 = '/berry-dashboard/assets/images/widget/prod4.jpg';
+const Product1 = '/assets/images/widget/prod1.jpg';
+const Product2 = '/assets/images/widget/prod2.jpg';
+const Product3 = '/assets/images/widget/prod3.jpg';
+const Product4 = '/assets/images/widget/prod4.jpg';
 
 // styles
 const ImageWrapper = styled('div')(({ theme }) => ({

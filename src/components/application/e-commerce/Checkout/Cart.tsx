@@ -37,7 +37,7 @@ import RemoveIcon from '@mui/icons-material/Remove';
 import DeleteTwoToneIcon from '@mui/icons-material/DeleteTwoTone';
 import KeyboardBackspaceIcon from '@mui/icons-material/KeyboardBackspace';
 
-const prodImage = '/berry-dashboard/assets/images/e-commerce';
+const prodImage = '/assets/images/e-commerce';
 
 // product color select
 function getColor(color: string) {

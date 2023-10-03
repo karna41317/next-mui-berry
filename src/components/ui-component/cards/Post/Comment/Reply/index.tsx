@@ -14,7 +14,7 @@ import MoreVertTwoToneIcon from '@mui/icons-material/MoreVertTwoTone';
 import ThumbUpAltTwoToneIcon from '@mui/icons-material/ThumbUpAltTwoTone';
 import ReplyTwoToneIcon from '@mui/icons-material/ReplyTwoTone';
 
-const avatarImage = '/berry-dashboard/assets/images/profile/';
+const avatarImage = '/assets/images/profile/';
 
 interface ReplyProps {
   commentId: string;

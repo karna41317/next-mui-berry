@@ -11,7 +11,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import InstagramIcon from '@mui/icons-material/Instagram';
 
-const logoDark = '/berry-dashboard/assets/images/logo-white.svg';
+const logoDark = '/assets/images/logo-white.svg';
 
 // styles
 const FooterWrapper = styled('div')(({ theme }) => ({

@@ -13,7 +13,7 @@ import BackgroundPattern1 from 'ui-component/cards/BackgroundPattern1';
 import AuthSlider from 'ui-component/cards/AuthSlider';
 import { AuthSliderProps } from 'types';
 // assets
-const AuthBlueCard = '/berry-dashboard/assets/images/auth/auth-mail-blue-card.svg';
+const AuthBlueCard = '/assets/images/auth/auth-mail-blue-card.svg';
 
 // styles
 const BlueWrapper = styled('span')(({ theme }) => ({

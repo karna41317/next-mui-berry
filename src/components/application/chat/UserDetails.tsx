@@ -13,11 +13,11 @@ import PinDropTwoToneIcon from '@mui/icons-material/PinDropTwoTone';
 import PhoneTwoToneIcon from '@mui/icons-material/PhoneTwoTone';
 import EmailTwoToneIcon from '@mui/icons-material/EmailTwoTone';
 
-const images1 = '/berry-dashboard/assets/images/pages/img-catalog1.png';
-const images2 = '/berry-dashboard/assets/images/pages/img-catalog2.png';
-const images3 = '/berry-dashboard/assets/images/pages/img-catalog3.png';
+const images1 = '/assets/images/pages/img-catalog1.png';
+const images2 = '/assets/images/pages/img-catalog2.png';
+const images3 = '/assets/images/pages/img-catalog3.png';
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 // ==============================|| USER PROFILE / DETAILS ||============================== //
 

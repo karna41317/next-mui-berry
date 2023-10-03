@@ -13,7 +13,7 @@ import UserEdit from 'components/application/contact/UserEdit';
 import ContactCard from 'ui-component/cards/ContactCard';
 import MainCard from 'ui-component/cards/MainCard';
 import { gridSpacing } from 'store/constant';
-const User1 = '/berry-dashboard/assets/images/users/avatar-1.png';
+const User1 = '/assets/images/users/avatar-1.png';
 import { KeyedObject } from 'types';
 import { UserProfile } from 'types/user-profile';
 import { useDispatch, useSelector } from 'store';

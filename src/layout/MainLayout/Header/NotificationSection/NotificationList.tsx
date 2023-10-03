@@ -19,7 +19,7 @@ import {
 
 // assets
 import { IconBrandTelegram, IconBuildingStore, IconMailbox, IconPhoto } from '@tabler/icons';
-const User1 = '/berry-dashboard/assets/images/users/user-round.svg';
+const User1 = '/assets/images/users/user-round.svg';
 
 // styles
 const ListItemWrapper = styled('div')(({ theme }) => ({

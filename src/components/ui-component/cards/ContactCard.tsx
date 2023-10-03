@@ -14,7 +14,7 @@ import MoreHorizOutlinedIcon from '@mui/icons-material/MoreHorizOutlined';
 import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 import PhoneTwoToneIcon from '@mui/icons-material/PhoneTwoTone';
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 // ==============================|| USER CONTACT CARD ||============================== //
 

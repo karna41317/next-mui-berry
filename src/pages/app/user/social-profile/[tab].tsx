@@ -24,8 +24,8 @@ import { IconFriends, IconInbox, IconPhoto, IconUserPlus, IconUsers } from '@tab
 import PersonAddTwoToneIcon from '@mui/icons-material/PersonAddTwoTone';
 import { TabsProps } from 'types';
 
-const User1 = '/berry-dashboard/assets/images/profile/img-user.png';
-const Cover = '/berry-dashboard/assets/images/profile/img-profile-bg.png';
+const User1 = '/assets/images/profile/img-user.png';
+const Cover = '/assets/images/profile/img-profile-bg.png';
 
 function TabPanel({ children, value, index, ...other }: TabsProps) {
   return (

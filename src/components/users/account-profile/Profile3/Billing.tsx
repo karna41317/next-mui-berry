@@ -25,9 +25,9 @@ import Chip from 'ui-component/extended/Chip';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const imageDiscover = '/berry-dashboard/assets/images/pages/card-discover.png';
-const imageMasterCard = '/berry-dashboard/assets/images/pages/card-master.png';
-const imageVisa = '/berry-dashboard/assets/images/pages/card-visa.png';
+const imageDiscover = '/assets/images/pages/card-discover.png';
+const imageMasterCard = '/assets/images/pages/card-master.png';
+const imageVisa = '/assets/images/pages/card-visa.png';
 
 // table data
 function createData(tid: string, date: string, amount: string, badgeText: string, badgeType: string) {

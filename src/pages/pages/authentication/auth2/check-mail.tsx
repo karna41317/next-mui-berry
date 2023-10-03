@@ -15,7 +15,7 @@ import BackgroundPattern2 from 'ui-component/cards/BackgroundPattern2';
 import AuthSlider from 'ui-component/cards/AuthSlider';
 import { AuthSliderProps } from 'types';
 // assets
-const imgMain = '/berry-dashboard/assets/images/auth/img-a2-checkmail.svg';
+const imgMain = '/assets/images/auth/img-a2-checkmail.svg';
 
 // carousel items
 const items: AuthSliderProps[] = [

@@ -6,7 +6,7 @@ import ContactCard from 'components/contact-us/ContactCard';
 import AppBar from 'ui-component/extended/AppBar';
 
 // assets
-const headerBackground = '/berry-dashboard/assets/images/landing/header-bg.jpg';
+const headerBackground = '/assets/images/landing/header-bg.jpg';
 
 const HeaderWrapper = styled('div')(({ theme }) => ({
   backgroundImage: `url(${headerBackground})`,

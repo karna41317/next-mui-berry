@@ -6,7 +6,7 @@ import Avatar from 'ui-component/extended/Avatar';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const Avatar1 = '/berry-dashboard/assets/images/users/avatar-1.png';
+const Avatar1 = '/assets/images/users/avatar-1.png';
 import ErrorTwoToneIcon from '@mui/icons-material/ErrorTwoTone';
 
 // ==============================|| PROFILE 2 - USER PROFILE ||============================== //

@@ -12,11 +12,11 @@ import { gridSpacing } from 'store/constant';
 import WatchLaterTwoToneIcon from '@mui/icons-material/WatchLaterTwoTone';
 import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
 
-const Avatar1 = '/berry-dashboard/assets/images/users/avatar-1.png';
-const Avatar2 = '/berry-dashboard/assets/images/users/avatar-2.png';
-const Avatar3 = '/berry-dashboard/assets/images/users/avatar-3.png';
-const Avatar4 = '/berry-dashboard/assets/images/users/avatar-4.png';
-const Avatar5 = '/berry-dashboard/assets/images/users/avatar-5.png';
+const Avatar1 = '/assets/images/users/avatar-1.png';
+const Avatar2 = '/assets/images/users/avatar-2.png';
+const Avatar3 = '/assets/images/users/avatar-3.png';
+const Avatar4 = '/assets/images/users/avatar-4.png';
+const Avatar5 = '/assets/images/users/avatar-5.png';
 
 const activeSX = {
   width: 16,

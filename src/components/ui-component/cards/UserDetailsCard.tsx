@@ -14,7 +14,7 @@ import MoreHorizOutlinedIcon from '@mui/icons-material/MoreHorizOutlined';
 import NotInterestedTwoToneIcon from '@mui/icons-material/NotInterestedTwoTone';
 import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // ==============================|| USER DETAILS CARD ||============================== //
 

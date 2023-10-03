@@ -15,8 +15,8 @@ import AuthSlider from 'ui-component/cards/AuthSlider';
 import { AuthSliderProps } from 'types';
 
 // assets
-const AuthErrorCard = '/berry-dashboard/assets/images/auth/auth-reset-error-card.svg';
-const AuthPurpleCard = '/berry-dashboard/assets/images/auth/auth-reset-purple-card.svg';
+const AuthErrorCard = '/assets/images/auth/auth-reset-error-card.svg';
+const AuthPurpleCard = '/assets/images/auth/auth-reset-purple-card.svg';
 
 // styles
 const PurpleWrapper = styled('span')(({ theme }) => ({

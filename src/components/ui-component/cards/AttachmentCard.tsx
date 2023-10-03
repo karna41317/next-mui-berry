@@ -6,7 +6,7 @@ import { gridSpacing } from 'store/constant';
 // assets
 import DownloadForOfflineTwoToneIcon from '@mui/icons-material/DownloadForOfflineTwoTone';
 
-const backImage = '/berry-dashboard/assets/images/profile';
+const backImage = '/assets/images/profile';
 
 // ==============================|| ATTACHMENT CARD ||============================== //
 

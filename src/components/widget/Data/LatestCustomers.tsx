@@ -8,11 +8,11 @@ import PerfectScrollbar from 'react-perfect-scrollbar';
 import MainCard from 'ui-component/cards/MainCard';
 
 // assets
-const Flag1 = '/berry-dashboard/assets/images/widget/AUSTRALIA.jpg';
-const Flag2 = '/berry-dashboard/assets/images/widget/BRAZIL.jpg';
-const Flag3 = '/berry-dashboard/assets/images/widget/GERMANY.jpg';
-const Flag4 = '/berry-dashboard/assets/images/widget/UK.jpg';
-const Flag5 = '/berry-dashboard/assets/images/widget/USA.jpg';
+const Flag1 = '/assets/images/widget/AUSTRALIA.jpg';
+const Flag2 = '/assets/images/widget/BRAZIL.jpg';
+const Flag3 = '/assets/images/widget/GERMANY.jpg';
+const Flag4 = '/assets/images/widget/UK.jpg';
+const Flag5 = '/assets/images/widget/USA.jpg';
 
 // table data
 function createData(image: string, subject: string, dept: string, date: string) {

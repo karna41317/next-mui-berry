@@ -47,7 +47,7 @@ import { ChatHistory } from 'types/chat';
 import { History as HistoryProps } from 'types/chat';
 import EmojiPicker from 'ui-component/third-party/EmojiPicker';
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 // drawer content element
 const Main = styled('main', { shouldForwardProp: (prop: string) => prop !== 'open' })(

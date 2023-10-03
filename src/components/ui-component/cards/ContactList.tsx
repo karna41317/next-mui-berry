@@ -11,7 +11,7 @@ import { UserProfile } from 'types/user-profile';
 import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 import PhoneTwoToneIcon from '@mui/icons-material/PhoneTwoTone';
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 // styles
 const ListWrapper = styled('div')(({ theme }) => ({

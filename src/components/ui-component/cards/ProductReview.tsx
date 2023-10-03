@@ -16,7 +16,7 @@ import MoreHorizOutlinedIcon from '@mui/icons-material/MoreHorizOutlined';
 import VerifiedUserIcon from '@mui/icons-material/VerifiedUser';
 import DirectionsRunIcon from '@mui/icons-material/DirectionsRun';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // ==============================|| PRODUCT DETAILS - REVIEW ||============================== //
 

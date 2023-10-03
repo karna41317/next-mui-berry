@@ -1,8 +1,8 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 import { Post } from 'types/user-profile';
-const image1 = '/berry-dashboard/assets/images/profile/img-profile1.png';
-const image2 = '/berry-dashboard/assets/images/profile/img-profile2.jpg';
-const image4 = '/berry-dashboard/assets/images/profile/img-profile4.jpg';
+const image1 = '/assets/images/profile/img-profile1.png';
+const image2 = '/assets/images/profile/img-profile2.jpg';
+const image4 = '/assets/images/profile/img-profile4.jpg';
 
 let posts: Post[] = [
   {

@@ -39,7 +39,7 @@ import ReplyTwoToneIcon from '@mui/icons-material/ReplyTwoTone';
 import AttachmentRoundedIcon from '@mui/icons-material/AttachmentRounded';
 import { FormInputProps } from 'types';
 
-const avatarImage = '/berry-dashboard/assets/images/profile/';
+const avatarImage = '/assets/images/profile/';
 
 const validationSchema = yup.object().shape({
   name: yup.string().required('Reply Field is Required')

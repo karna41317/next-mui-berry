@@ -11,8 +11,8 @@ import Accordion from 'ui-component/extended/Accordion';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const mailImg = '/berry-dashboard/assets/images/landing/img-contact-mail.svg';
-const headerBackground = '/berry-dashboard/assets/images/landing/header-bg.jpg';
+const mailImg = '/assets/images/landing/img-contact-mail.svg';
+const headerBackground = '/assets/images/landing/header-bg.jpg';
 
 const HeaderWrapper = styled('div')(({ theme }) => ({
   backgroundImage: `url(${headerBackground})`,

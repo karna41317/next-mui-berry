@@ -6,8 +6,8 @@ import MainCard from 'ui-component/cards/MainCard';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const Dashboard1 = '/berry-dashboard/assets/images/widget/dashborad-1.jpg';
-const Dashboard2 = '/berry-dashboard/assets/images/widget/dashborad-3.jpg';
+const Dashboard1 = '/assets/images/widget/dashborad-1.jpg';
+const Dashboard2 = '/assets/images/widget/dashborad-3.jpg';
 
 const mediaSX = {
   width: 90,

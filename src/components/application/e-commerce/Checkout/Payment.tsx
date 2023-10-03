@@ -43,7 +43,7 @@ import { CartCheckoutStateProps } from 'types/cart';
 import { PaymentOptionsProps } from 'types/e-commerce';
 import { setPaymentCard, setPaymentMethod } from 'store/slices/cart';
 
-const prodImage = '/berry-dashboard/assets/images/e-commerce';
+const prodImage = '/assets/images/e-commerce';
 
 // product color select
 function getColor(color: string) {

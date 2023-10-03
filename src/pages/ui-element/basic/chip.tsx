@@ -10,7 +10,7 @@ import SecondaryAction from 'ui-component/cards/CardSecondaryAction';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const User1 = '/berry-dashboard/assets/images/users/avatar-1.png';
+const User1 = '/assets/images/users/avatar-1.png';
 
 // ================================|| UI CHIP ||================================ //
 

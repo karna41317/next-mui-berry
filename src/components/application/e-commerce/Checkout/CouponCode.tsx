@@ -17,7 +17,7 @@ import { gridSpacing } from 'store/constant';
 // assets
 import HighlightOffTwoToneIcon from '@mui/icons-material/HighlightOffTwoTone';
 import { IconGift, IconTrophy } from '@tabler/icons';
-const discount = '/berry-dashboard/assets/images/e-commerce/discount.png';
+const discount = '/assets/images/e-commerce/discount.png';
 
 const Transition = forwardRef((props: ZoomProps, ref) => <Zoom ref={ref} {...props} />);
 

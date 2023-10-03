@@ -7,8 +7,8 @@ import SubCard from 'ui-component/cards/SubCard';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const visa = '/berry-dashboard/assets/images/e-commerce/visa.png';
-const mastercard = '/berry-dashboard/assets/images/e-commerce/mastercard.png';
+const visa = '/assets/images/e-commerce/visa.png';
+const mastercard = '/assets/images/e-commerce/mastercard.png';
 import CheckIcon from '@mui/icons-material/Check';
 
 // ==============================|| CHECKOUT PAYMENT - CARD METHOD ||============================== //

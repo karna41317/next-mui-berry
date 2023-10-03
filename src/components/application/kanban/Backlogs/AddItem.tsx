@@ -39,7 +39,7 @@ interface Props {
 }
 
 const chance = new Chance();
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 const validationSchema = yup.object({
   title: yup.string().required('Task title is required'),
   dueDate: yup.date()

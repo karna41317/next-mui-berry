@@ -11,11 +11,11 @@ import { gridSpacing } from 'store/constant';
 // assets
 import HomeTwoToneIcon from '@mui/icons-material/HomeTwoTone';
 
-const imageBackground = '/berry-dashboard/assets/images/maintenance/img-error-bg.svg';
-const imageDarkBackground = '/berry-dashboard/assets/images/maintenance/img-error-bg-dark.svg';
-const imageBlue = '/berry-dashboard/assets/images/maintenance/img-error-blue.svg';
-const imageText = '/berry-dashboard/assets/images/maintenance/img-error-text.svg';
-const imagePurple = '/berry-dashboard/assets/images/maintenance/img-error-purple.svg';
+const imageBackground = '/assets/images/maintenance/img-error-bg.svg';
+const imageDarkBackground = '/assets/images/maintenance/img-error-bg-dark.svg';
+const imageBlue = '/assets/images/maintenance/img-error-blue.svg';
+const imageText = '/assets/images/maintenance/img-error-text.svg';
+const imagePurple = '/assets/images/maintenance/img-error-purple.svg';
 
 // styles
 const CardMediaWrapper = styled('div')({

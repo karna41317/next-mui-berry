@@ -15,8 +15,8 @@ import { AuthSliderProps } from 'types';
 import AuthCodeVerification from 'components/authentication/auth-forms/AuthCodeVerification';
 
 // assets
-const AuthBlueCard = '/berry-dashboard/assets/images/auth/auth-signup-blue-card.svg';
-const AuthWhiteCard = '/berry-dashboard/assets/images/auth/auth-signup-white-card.svg';
+const AuthBlueCard = '/assets/images/auth/auth-signup-blue-card.svg';
+const AuthWhiteCard = '/assets/images/auth/auth-signup-white-card.svg';
 
 // styles
 const BlueWrapper = styled('span')(({ theme }) => ({

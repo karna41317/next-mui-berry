@@ -13,7 +13,7 @@ import { GenericCardProps } from 'types';
 import MoreVertTwoToneIcon from '@mui/icons-material/MoreVertTwoTone';
 import EventTwoToneIcon from '@mui/icons-material/EventTwoTone';
 
-const backImage = '/berry-dashboard/assets/images/profile';
+const backImage = '/assets/images/profile';
 
 // ==============================|| SOCIAL PROFILE - GALLERY CARD ||============================== //
 

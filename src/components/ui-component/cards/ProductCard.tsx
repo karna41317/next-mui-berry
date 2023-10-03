@@ -18,7 +18,7 @@ import ShoppingCartTwoToneIcon from '@mui/icons-material/ShoppingCartTwoTone';
 // types
 import { ProductCardProps } from 'types/product';
 
-const prodImage = '/berry-dashboard/assets/images/e-commerce';
+const prodImage = '/assets/images/e-commerce';
 
 // ==============================|| PRODUCT CARD ||============================== //
 

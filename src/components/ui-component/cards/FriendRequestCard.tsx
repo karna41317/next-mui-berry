@@ -16,7 +16,7 @@ import GroupTwoToneIcon from '@mui/icons-material/GroupTwoTone';
 // types
 import { FriendRequestCardProps } from 'types/user';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // ==============================|| SOCIAL PROFILE - FRIEND REQUEST CARD ||============================== //
 

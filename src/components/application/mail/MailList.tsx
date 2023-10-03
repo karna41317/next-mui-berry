@@ -42,7 +42,7 @@ import DeleteTwoToneIcon from '@mui/icons-material/DeleteTwoTone';
 import VisibilityOffTwoToneIcon from '@mui/icons-material/VisibilityOffTwoTone';
 import { MailListProps, MailListHeaderProps } from 'types/mail';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // ==============================|| TABLE HEADER TOOLBAR ||============================== //
 

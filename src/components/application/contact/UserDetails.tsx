@@ -21,7 +21,7 @@ import InfoTwoToneIcon from '@mui/icons-material/InfoTwoTone';
 import ChatBubbleTwoToneIcon from '@mui/icons-material/ChatBubbleTwoTone';
 import NotInterestedTwoToneIcon from '@mui/icons-material/NotInterestedTwoTone';
 
-const avatarImage = '/berry-dashboard/assets/images/users';
+const avatarImage = '/assets/images/users';
 
 // sticky details card
 interface ElevationScrollProps {

@@ -36,7 +36,7 @@ import ReplyTwoToneIcon from '@mui/icons-material/ReplyTwoTone';
 import ForwardTwoToneIcon from '@mui/icons-material/ForwardTwoTone';
 import { MailDetailsProps } from 'types/mail';
 
-const avatarImage = '/berry-dashboard/assets/images/profile';
+const avatarImage = '/assets/images/profile';
 
 // ==============================|| MAIL DETAILS ||============================== //
 

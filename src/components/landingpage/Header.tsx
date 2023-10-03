@@ -188,7 +188,7 @@ const HeaderPage = () => {
         </Grid>
         <Grid item xs={12} md={7} sx={{ display: { xs: 'none', md: 'flex' } }}>
           <Box sx={{ position: 'relative', mt: 8.75 }}>
-            <HeaderImage src={'/berry-dashboard/assets/images/landing/dashboard.png'} alt="Berry" />
+            <HeaderImage src={'/assets/images/landing/dashboard.png'} alt="Berry" />
             <Box
               sx={{
                 position: 'absolute',
@@ -208,7 +208,7 @@ const HeaderPage = () => {
                   delay: 0.2
                 }}
               >
-                <HeaderAnimationImage src={'/berry-dashboard/assets/images/landing/widget-1.png'} alt="Berry" />
+                <HeaderAnimationImage src={'/assets/images/landing/widget-1.png'} alt="Berry" />
               </motion.div>
             </Box>
             <Box
@@ -231,7 +231,7 @@ const HeaderPage = () => {
                   delay: 0.4
                 }}
               >
-                <HeaderAnimationImage src={'/berry-dashboard/assets/images/landing/widget-2.png'} alt="Berry" />
+                <HeaderAnimationImage src={'/assets/images/landing/widget-2.png'} alt="Berry" />
               </motion.div>
             </Box>
           </Box>

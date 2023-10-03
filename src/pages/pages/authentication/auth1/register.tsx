@@ -12,8 +12,8 @@ import BackgroundPattern1 from 'ui-component/cards/BackgroundPattern1';
 import AuthSlider from 'ui-component/cards/AuthSlider';
 import { AuthSliderProps } from 'types';
 // assets
-const AuthBlueCard = '/berry-dashboard/assets/images/auth/auth-signup-blue-card.svg';
-const AuthWhiteCard = '/berry-dashboard/assets/images/auth/auth-signup-white-card.svg';
+const AuthBlueCard = '/assets/images/auth/auth-signup-blue-card.svg';
+const AuthWhiteCard = '/assets/images/auth/auth-signup-white-card.svg';
 
 // styles
 const PurpleWrapper = styled('span')(({ theme }) => ({

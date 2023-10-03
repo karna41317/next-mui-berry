@@ -15,9 +15,9 @@ import SecondaryAction from 'ui-component/cards/CardSecondaryAction';
 import { gridSpacing } from 'store/constant';
 
 // assets
-const Card1 = '/berry-dashboard/assets/images/cards/card-1.jpg';
-const Card2 = '/berry-dashboard/assets/images/cards/card-2.jpg';
-const Card3 = '/berry-dashboard/assets/images/cards/card-3.jpg';
+const Card1 = '/assets/images/cards/card-1.jpg';
+const Card2 = '/assets/images/cards/card-2.jpg';
+const Card3 = '/assets/images/cards/card-3.jpg';
 
 const userDetails = {
   id: '#1Card_Phoebe',
