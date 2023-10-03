@@ -18,8 +18,8 @@ const nextConfig = withTM({
     loader: 'akamai',
     path: ''
   },
-  basePath: '/berry-dashboard',
-  assetPrefix: '/berry-dashboard/',
+  basePath: '/github-pages/berry-dashboard',
+  assetPrefix: '/github-pages/berry-dashboard/',
   typescript: {
     // !! WARN !!
     // Dangerously allow production builds to successfully complete even if
