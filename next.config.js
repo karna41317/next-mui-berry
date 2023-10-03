@@ -18,6 +18,7 @@ const nextConfig = withTM({
     loader: 'akamai',
     path: ''
   },
+  basePath: '/github-pages',
   typescript: {
     // !! WARN !!
     // Dangerously allow production builds to successfully complete even if
